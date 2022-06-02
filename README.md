@@ -1,5 +1,5 @@
 # Minesweeper
-Minesweeper game made with C# and windows forms
+Minesweeper game made with C# and windows forms.
 
 Pre-College study #3
 
