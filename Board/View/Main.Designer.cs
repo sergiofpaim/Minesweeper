@@ -120,9 +120,10 @@
             // button
             // 
             this.button.BackColor = System.Drawing.Color.Turquoise;
-            this.button.Location = new System.Drawing.Point(21, 75);
+            this.button.Location = new System.Drawing.Point(18, 56);
+            this.button.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button.Name = "button";
-            this.button.Size = new System.Drawing.Size(30, 30);
+            this.button.Size = new System.Drawing.Size(26, 22);
             this.button.TabIndex = 0;
             this.button.Tag = "0,0";
             this.button.UseVisualStyleBackColor = false;
@@ -131,9 +132,10 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.Turquoise;
-            this.button1.Location = new System.Drawing.Point(93, 75);
+            this.button1.Location = new System.Drawing.Point(81, 56);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(30, 30);
+            this.button1.Size = new System.Drawing.Size(26, 22);
             this.button1.TabIndex = 1;
             this.button1.Tag = "0,2";
             this.button1.UseVisualStyleBackColor = false;
@@ -142,9 +144,10 @@
             // button2
             // 
             this.button2.BackColor = System.Drawing.Color.Turquoise;
-            this.button2.Location = new System.Drawing.Point(129, 75);
+            this.button2.Location = new System.Drawing.Point(113, 56);
+            this.button2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(30, 30);
+            this.button2.Size = new System.Drawing.Size(26, 22);
             this.button2.TabIndex = 2;
             this.button2.Tag = "0,3";
             this.button2.UseVisualStyleBackColor = false;
@@ -153,9 +156,10 @@
             // button3
             // 
             this.button3.BackColor = System.Drawing.Color.Turquoise;
-            this.button3.Location = new System.Drawing.Point(165, 75);
+            this.button3.Location = new System.Drawing.Point(144, 56);
+            this.button3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(30, 30);
+            this.button3.Size = new System.Drawing.Size(26, 22);
             this.button3.TabIndex = 3;
             this.button3.Tag = "0,4";
             this.button3.UseVisualStyleBackColor = false;
@@ -164,9 +168,10 @@
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.Turquoise;
-            this.button4.Location = new System.Drawing.Point(201, 75);
+            this.button4.Location = new System.Drawing.Point(176, 56);
+            this.button4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(30, 30);
+            this.button4.Size = new System.Drawing.Size(26, 22);
             this.button4.TabIndex = 4;
             this.button4.Tag = "0,5";
             this.button4.UseVisualStyleBackColor = false;
@@ -175,9 +180,10 @@
             // button5
             // 
             this.button5.BackColor = System.Drawing.Color.Turquoise;
-            this.button5.Location = new System.Drawing.Point(237, 75);
+            this.button5.Location = new System.Drawing.Point(207, 56);
+            this.button5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(30, 30);
+            this.button5.Size = new System.Drawing.Size(26, 22);
             this.button5.TabIndex = 5;
             this.button5.Tag = "0,6";
             this.button5.UseVisualStyleBackColor = false;
@@ -186,9 +192,10 @@
             // button6
             // 
             this.button6.BackColor = System.Drawing.Color.Turquoise;
-            this.button6.Location = new System.Drawing.Point(273, 75);
+            this.button6.Location = new System.Drawing.Point(239, 56);
+            this.button6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(30, 30);
+            this.button6.Size = new System.Drawing.Size(26, 22);
             this.button6.TabIndex = 6;
             this.button6.Tag = "0,7";
             this.button6.UseVisualStyleBackColor = false;
@@ -197,9 +204,10 @@
             // button7
             // 
             this.button7.BackColor = System.Drawing.Color.Turquoise;
-            this.button7.Location = new System.Drawing.Point(309, 75);
+            this.button7.Location = new System.Drawing.Point(270, 56);
+            this.button7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(30, 30);
+            this.button7.Size = new System.Drawing.Size(26, 22);
             this.button7.TabIndex = 7;
             this.button7.Tag = "0,8";
             this.button7.UseVisualStyleBackColor = false;
@@ -208,9 +216,10 @@
             // button10
             // 
             this.button10.BackColor = System.Drawing.Color.Turquoise;
-            this.button10.Location = new System.Drawing.Point(309, 111);
+            this.button10.Location = new System.Drawing.Point(270, 83);
+            this.button10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(30, 30);
+            this.button10.Size = new System.Drawing.Size(26, 22);
             this.button10.TabIndex = 16;
             this.button10.Tag = "1,8";
             this.button10.UseVisualStyleBackColor = false;
@@ -219,9 +228,10 @@
             // button11
             // 
             this.button11.BackColor = System.Drawing.Color.Turquoise;
-            this.button11.Location = new System.Drawing.Point(273, 111);
+            this.button11.Location = new System.Drawing.Point(239, 83);
+            this.button11.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(30, 30);
+            this.button11.Size = new System.Drawing.Size(26, 22);
             this.button11.TabIndex = 15;
             this.button11.Tag = "1,7";
             this.button11.UseVisualStyleBackColor = false;
@@ -230,9 +240,10 @@
             // button12
             // 
             this.button12.BackColor = System.Drawing.Color.Turquoise;
-            this.button12.Location = new System.Drawing.Point(237, 111);
+            this.button12.Location = new System.Drawing.Point(207, 83);
+            this.button12.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(30, 30);
+            this.button12.Size = new System.Drawing.Size(26, 22);
             this.button12.TabIndex = 14;
             this.button12.Tag = "1,6";
             this.button12.UseVisualStyleBackColor = false;
@@ -241,9 +252,10 @@
             // button13
             // 
             this.button13.BackColor = System.Drawing.Color.Turquoise;
-            this.button13.Location = new System.Drawing.Point(201, 111);
+            this.button13.Location = new System.Drawing.Point(176, 83);
+            this.button13.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(30, 30);
+            this.button13.Size = new System.Drawing.Size(26, 22);
             this.button13.TabIndex = 13;
             this.button13.Tag = "1,5";
             this.button13.UseVisualStyleBackColor = false;
@@ -252,9 +264,10 @@
             // button14
             // 
             this.button14.BackColor = System.Drawing.Color.Turquoise;
-            this.button14.Location = new System.Drawing.Point(165, 111);
+            this.button14.Location = new System.Drawing.Point(144, 83);
+            this.button14.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(30, 30);
+            this.button14.Size = new System.Drawing.Size(26, 22);
             this.button14.TabIndex = 12;
             this.button14.Tag = "1,4";
             this.button14.UseVisualStyleBackColor = false;
@@ -263,9 +276,10 @@
             // button15
             // 
             this.button15.BackColor = System.Drawing.Color.Turquoise;
-            this.button15.Location = new System.Drawing.Point(129, 111);
+            this.button15.Location = new System.Drawing.Point(113, 83);
+            this.button15.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(30, 30);
+            this.button15.Size = new System.Drawing.Size(26, 22);
             this.button15.TabIndex = 11;
             this.button15.Tag = "1,3";
             this.button15.UseVisualStyleBackColor = false;
@@ -274,9 +288,10 @@
             // button16
             // 
             this.button16.BackColor = System.Drawing.Color.Turquoise;
-            this.button16.Location = new System.Drawing.Point(93, 111);
+            this.button16.Location = new System.Drawing.Point(81, 83);
+            this.button16.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(30, 30);
+            this.button16.Size = new System.Drawing.Size(26, 22);
             this.button16.TabIndex = 10;
             this.button16.Tag = "1,2";
             this.button16.UseVisualStyleBackColor = false;
@@ -285,9 +300,10 @@
             // button17
             // 
             this.button17.BackColor = System.Drawing.Color.Turquoise;
-            this.button17.Location = new System.Drawing.Point(57, 111);
+            this.button17.Location = new System.Drawing.Point(50, 83);
+            this.button17.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(30, 30);
+            this.button17.Size = new System.Drawing.Size(26, 22);
             this.button17.TabIndex = 9;
             this.button17.Tag = "1,1";
             this.button17.UseVisualStyleBackColor = false;
@@ -296,9 +312,10 @@
             // button19
             // 
             this.button19.BackColor = System.Drawing.Color.Turquoise;
-            this.button19.Location = new System.Drawing.Point(309, 147);
+            this.button19.Location = new System.Drawing.Point(270, 110);
+            this.button19.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(30, 30);
+            this.button19.Size = new System.Drawing.Size(26, 22);
             this.button19.TabIndex = 25;
             this.button19.Tag = "2,8";
             this.button19.UseVisualStyleBackColor = false;
@@ -307,9 +324,10 @@
             // button20
             // 
             this.button20.BackColor = System.Drawing.Color.Turquoise;
-            this.button20.Location = new System.Drawing.Point(273, 147);
+            this.button20.Location = new System.Drawing.Point(239, 110);
+            this.button20.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(30, 30);
+            this.button20.Size = new System.Drawing.Size(26, 22);
             this.button20.TabIndex = 24;
             this.button20.Tag = "2,7";
             this.button20.UseVisualStyleBackColor = false;
@@ -318,9 +336,10 @@
             // button21
             // 
             this.button21.BackColor = System.Drawing.Color.Turquoise;
-            this.button21.Location = new System.Drawing.Point(237, 147);
+            this.button21.Location = new System.Drawing.Point(207, 110);
+            this.button21.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button21.Name = "button21";
-            this.button21.Size = new System.Drawing.Size(30, 30);
+            this.button21.Size = new System.Drawing.Size(26, 22);
             this.button21.TabIndex = 23;
             this.button21.Tag = "2,6";
             this.button21.UseVisualStyleBackColor = false;
@@ -329,9 +348,10 @@
             // button22
             // 
             this.button22.BackColor = System.Drawing.Color.Turquoise;
-            this.button22.Location = new System.Drawing.Point(201, 147);
+            this.button22.Location = new System.Drawing.Point(176, 110);
+            this.button22.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button22.Name = "button22";
-            this.button22.Size = new System.Drawing.Size(30, 30);
+            this.button22.Size = new System.Drawing.Size(26, 22);
             this.button22.TabIndex = 22;
             this.button22.Tag = "2,5";
             this.button22.UseVisualStyleBackColor = false;
@@ -340,9 +360,10 @@
             // button23
             // 
             this.button23.BackColor = System.Drawing.Color.Turquoise;
-            this.button23.Location = new System.Drawing.Point(165, 147);
+            this.button23.Location = new System.Drawing.Point(144, 110);
+            this.button23.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button23.Name = "button23";
-            this.button23.Size = new System.Drawing.Size(30, 30);
+            this.button23.Size = new System.Drawing.Size(26, 22);
             this.button23.TabIndex = 21;
             this.button23.Tag = "2,4";
             this.button23.UseVisualStyleBackColor = false;
@@ -351,9 +372,10 @@
             // button24
             // 
             this.button24.BackColor = System.Drawing.Color.Turquoise;
-            this.button24.Location = new System.Drawing.Point(129, 147);
+            this.button24.Location = new System.Drawing.Point(113, 110);
+            this.button24.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button24.Name = "button24";
-            this.button24.Size = new System.Drawing.Size(30, 30);
+            this.button24.Size = new System.Drawing.Size(26, 22);
             this.button24.TabIndex = 20;
             this.button24.Tag = "2,3";
             this.button24.UseVisualStyleBackColor = false;
@@ -362,9 +384,10 @@
             // button25
             // 
             this.button25.BackColor = System.Drawing.Color.Turquoise;
-            this.button25.Location = new System.Drawing.Point(93, 147);
+            this.button25.Location = new System.Drawing.Point(81, 110);
+            this.button25.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button25.Name = "button25";
-            this.button25.Size = new System.Drawing.Size(30, 30);
+            this.button25.Size = new System.Drawing.Size(26, 22);
             this.button25.TabIndex = 19;
             this.button25.Tag = "2,2";
             this.button25.UseVisualStyleBackColor = false;
@@ -373,9 +396,10 @@
             // button26
             // 
             this.button26.BackColor = System.Drawing.Color.Turquoise;
-            this.button26.Location = new System.Drawing.Point(57, 147);
+            this.button26.Location = new System.Drawing.Point(50, 110);
+            this.button26.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button26.Name = "button26";
-            this.button26.Size = new System.Drawing.Size(30, 30);
+            this.button26.Size = new System.Drawing.Size(26, 22);
             this.button26.TabIndex = 18;
             this.button26.Tag = "2,1";
             this.button26.UseVisualStyleBackColor = false;
@@ -384,9 +408,10 @@
             // button28
             // 
             this.button28.BackColor = System.Drawing.Color.Turquoise;
-            this.button28.Location = new System.Drawing.Point(309, 183);
+            this.button28.Location = new System.Drawing.Point(270, 137);
+            this.button28.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button28.Name = "button28";
-            this.button28.Size = new System.Drawing.Size(30, 30);
+            this.button28.Size = new System.Drawing.Size(26, 22);
             this.button28.TabIndex = 34;
             this.button28.Tag = "3,8";
             this.button28.UseVisualStyleBackColor = false;
@@ -395,9 +420,10 @@
             // button29
             // 
             this.button29.BackColor = System.Drawing.Color.Turquoise;
-            this.button29.Location = new System.Drawing.Point(273, 183);
+            this.button29.Location = new System.Drawing.Point(239, 137);
+            this.button29.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button29.Name = "button29";
-            this.button29.Size = new System.Drawing.Size(30, 30);
+            this.button29.Size = new System.Drawing.Size(26, 22);
             this.button29.TabIndex = 33;
             this.button29.Tag = "3,7";
             this.button29.UseVisualStyleBackColor = false;
@@ -406,9 +432,10 @@
             // button30
             // 
             this.button30.BackColor = System.Drawing.Color.Turquoise;
-            this.button30.Location = new System.Drawing.Point(237, 183);
+            this.button30.Location = new System.Drawing.Point(207, 137);
+            this.button30.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button30.Name = "button30";
-            this.button30.Size = new System.Drawing.Size(30, 30);
+            this.button30.Size = new System.Drawing.Size(26, 22);
             this.button30.TabIndex = 32;
             this.button30.Tag = "3,6";
             this.button30.UseVisualStyleBackColor = false;
@@ -417,9 +444,10 @@
             // button31
             // 
             this.button31.BackColor = System.Drawing.Color.Turquoise;
-            this.button31.Location = new System.Drawing.Point(201, 183);
+            this.button31.Location = new System.Drawing.Point(176, 137);
+            this.button31.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button31.Name = "button31";
-            this.button31.Size = new System.Drawing.Size(30, 30);
+            this.button31.Size = new System.Drawing.Size(26, 22);
             this.button31.TabIndex = 31;
             this.button31.Tag = "3,5";
             this.button31.UseVisualStyleBackColor = false;
@@ -428,9 +456,10 @@
             // button32
             // 
             this.button32.BackColor = System.Drawing.Color.Turquoise;
-            this.button32.Location = new System.Drawing.Point(165, 183);
+            this.button32.Location = new System.Drawing.Point(144, 137);
+            this.button32.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button32.Name = "button32";
-            this.button32.Size = new System.Drawing.Size(30, 30);
+            this.button32.Size = new System.Drawing.Size(26, 22);
             this.button32.TabIndex = 30;
             this.button32.Tag = "3,4";
             this.button32.UseVisualStyleBackColor = false;
@@ -439,9 +468,10 @@
             // button33
             // 
             this.button33.BackColor = System.Drawing.Color.Turquoise;
-            this.button33.Location = new System.Drawing.Point(129, 183);
+            this.button33.Location = new System.Drawing.Point(113, 137);
+            this.button33.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button33.Name = "button33";
-            this.button33.Size = new System.Drawing.Size(30, 30);
+            this.button33.Size = new System.Drawing.Size(26, 22);
             this.button33.TabIndex = 29;
             this.button33.Tag = "3,3";
             this.button33.UseVisualStyleBackColor = false;
@@ -450,9 +480,10 @@
             // button34
             // 
             this.button34.BackColor = System.Drawing.Color.Turquoise;
-            this.button34.Location = new System.Drawing.Point(93, 183);
+            this.button34.Location = new System.Drawing.Point(81, 137);
+            this.button34.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button34.Name = "button34";
-            this.button34.Size = new System.Drawing.Size(30, 30);
+            this.button34.Size = new System.Drawing.Size(26, 22);
             this.button34.TabIndex = 28;
             this.button34.Tag = "3,2";
             this.button34.UseVisualStyleBackColor = false;
@@ -461,9 +492,10 @@
             // button35
             // 
             this.button35.BackColor = System.Drawing.Color.Turquoise;
-            this.button35.Location = new System.Drawing.Point(57, 183);
+            this.button35.Location = new System.Drawing.Point(50, 137);
+            this.button35.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button35.Name = "button35";
-            this.button35.Size = new System.Drawing.Size(30, 30);
+            this.button35.Size = new System.Drawing.Size(26, 22);
             this.button35.TabIndex = 27;
             this.button35.Tag = "3,1";
             this.button35.UseVisualStyleBackColor = false;
@@ -472,9 +504,10 @@
             // button37
             // 
             this.button37.BackColor = System.Drawing.Color.Turquoise;
-            this.button37.Location = new System.Drawing.Point(309, 327);
+            this.button37.Location = new System.Drawing.Point(270, 245);
+            this.button37.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button37.Name = "button37";
-            this.button37.Size = new System.Drawing.Size(30, 30);
+            this.button37.Size = new System.Drawing.Size(26, 22);
             this.button37.TabIndex = 70;
             this.button37.Tag = "7,8";
             this.button37.UseVisualStyleBackColor = false;
@@ -483,9 +516,10 @@
             // button38
             // 
             this.button38.BackColor = System.Drawing.Color.Turquoise;
-            this.button38.Location = new System.Drawing.Point(273, 327);
+            this.button38.Location = new System.Drawing.Point(239, 245);
+            this.button38.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button38.Name = "button38";
-            this.button38.Size = new System.Drawing.Size(30, 30);
+            this.button38.Size = new System.Drawing.Size(26, 22);
             this.button38.TabIndex = 69;
             this.button38.Tag = "7,7";
             this.button38.UseVisualStyleBackColor = false;
@@ -494,9 +528,10 @@
             // button39
             // 
             this.button39.BackColor = System.Drawing.Color.Turquoise;
-            this.button39.Location = new System.Drawing.Point(237, 327);
+            this.button39.Location = new System.Drawing.Point(207, 245);
+            this.button39.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button39.Name = "button39";
-            this.button39.Size = new System.Drawing.Size(30, 30);
+            this.button39.Size = new System.Drawing.Size(26, 22);
             this.button39.TabIndex = 68;
             this.button39.Tag = "7,6";
             this.button39.UseVisualStyleBackColor = false;
@@ -505,9 +540,10 @@
             // button40
             // 
             this.button40.BackColor = System.Drawing.Color.Turquoise;
-            this.button40.Location = new System.Drawing.Point(201, 327);
+            this.button40.Location = new System.Drawing.Point(176, 245);
+            this.button40.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button40.Name = "button40";
-            this.button40.Size = new System.Drawing.Size(30, 30);
+            this.button40.Size = new System.Drawing.Size(26, 22);
             this.button40.TabIndex = 67;
             this.button40.Tag = "7,5";
             this.button40.UseVisualStyleBackColor = false;
@@ -516,9 +552,10 @@
             // button41
             // 
             this.button41.BackColor = System.Drawing.Color.Turquoise;
-            this.button41.Location = new System.Drawing.Point(165, 327);
+            this.button41.Location = new System.Drawing.Point(144, 245);
+            this.button41.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button41.Name = "button41";
-            this.button41.Size = new System.Drawing.Size(30, 30);
+            this.button41.Size = new System.Drawing.Size(26, 22);
             this.button41.TabIndex = 66;
             this.button41.Tag = "7,4";
             this.button41.UseVisualStyleBackColor = false;
@@ -527,9 +564,10 @@
             // button42
             // 
             this.button42.BackColor = System.Drawing.Color.Turquoise;
-            this.button42.Location = new System.Drawing.Point(129, 327);
+            this.button42.Location = new System.Drawing.Point(113, 245);
+            this.button42.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button42.Name = "button42";
-            this.button42.Size = new System.Drawing.Size(30, 30);
+            this.button42.Size = new System.Drawing.Size(26, 22);
             this.button42.TabIndex = 65;
             this.button42.Tag = "7,3";
             this.button42.UseVisualStyleBackColor = false;
@@ -538,9 +576,10 @@
             // button43
             // 
             this.button43.BackColor = System.Drawing.Color.Turquoise;
-            this.button43.Location = new System.Drawing.Point(93, 327);
+            this.button43.Location = new System.Drawing.Point(81, 245);
+            this.button43.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button43.Name = "button43";
-            this.button43.Size = new System.Drawing.Size(30, 30);
+            this.button43.Size = new System.Drawing.Size(26, 22);
             this.button43.TabIndex = 64;
             this.button43.Tag = "7,2";
             this.button43.UseVisualStyleBackColor = false;
@@ -549,9 +588,10 @@
             // button44
             // 
             this.button44.BackColor = System.Drawing.Color.Turquoise;
-            this.button44.Location = new System.Drawing.Point(57, 327);
+            this.button44.Location = new System.Drawing.Point(50, 245);
+            this.button44.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button44.Name = "button44";
-            this.button44.Size = new System.Drawing.Size(30, 30);
+            this.button44.Size = new System.Drawing.Size(26, 22);
             this.button44.TabIndex = 63;
             this.button44.Tag = "7,1";
             this.button44.UseVisualStyleBackColor = false;
@@ -560,9 +600,10 @@
             // button46
             // 
             this.button46.BackColor = System.Drawing.Color.Turquoise;
-            this.button46.Location = new System.Drawing.Point(309, 291);
+            this.button46.Location = new System.Drawing.Point(270, 218);
+            this.button46.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button46.Name = "button46";
-            this.button46.Size = new System.Drawing.Size(30, 30);
+            this.button46.Size = new System.Drawing.Size(26, 22);
             this.button46.TabIndex = 61;
             this.button46.Tag = "6,8";
             this.button46.UseVisualStyleBackColor = false;
@@ -571,9 +612,10 @@
             // button47
             // 
             this.button47.BackColor = System.Drawing.Color.Turquoise;
-            this.button47.Location = new System.Drawing.Point(273, 291);
+            this.button47.Location = new System.Drawing.Point(239, 218);
+            this.button47.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button47.Name = "button47";
-            this.button47.Size = new System.Drawing.Size(30, 30);
+            this.button47.Size = new System.Drawing.Size(26, 22);
             this.button47.TabIndex = 60;
             this.button47.Tag = "6,7";
             this.button47.UseVisualStyleBackColor = false;
@@ -582,9 +624,10 @@
             // button48
             // 
             this.button48.BackColor = System.Drawing.Color.Turquoise;
-            this.button48.Location = new System.Drawing.Point(237, 291);
+            this.button48.Location = new System.Drawing.Point(207, 218);
+            this.button48.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button48.Name = "button48";
-            this.button48.Size = new System.Drawing.Size(30, 30);
+            this.button48.Size = new System.Drawing.Size(26, 22);
             this.button48.TabIndex = 59;
             this.button48.Tag = "6,6";
             this.button48.UseVisualStyleBackColor = false;
@@ -593,9 +636,10 @@
             // button49
             // 
             this.button49.BackColor = System.Drawing.Color.Turquoise;
-            this.button49.Location = new System.Drawing.Point(201, 291);
+            this.button49.Location = new System.Drawing.Point(176, 218);
+            this.button49.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button49.Name = "button49";
-            this.button49.Size = new System.Drawing.Size(30, 30);
+            this.button49.Size = new System.Drawing.Size(26, 22);
             this.button49.TabIndex = 58;
             this.button49.Tag = "6,5";
             this.button49.UseVisualStyleBackColor = false;
@@ -604,9 +648,10 @@
             // button50
             // 
             this.button50.BackColor = System.Drawing.Color.Turquoise;
-            this.button50.Location = new System.Drawing.Point(165, 291);
+            this.button50.Location = new System.Drawing.Point(144, 218);
+            this.button50.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button50.Name = "button50";
-            this.button50.Size = new System.Drawing.Size(30, 30);
+            this.button50.Size = new System.Drawing.Size(26, 22);
             this.button50.TabIndex = 57;
             this.button50.Tag = "6,4";
             this.button50.UseVisualStyleBackColor = false;
@@ -615,9 +660,10 @@
             // button51
             // 
             this.button51.BackColor = System.Drawing.Color.Turquoise;
-            this.button51.Location = new System.Drawing.Point(129, 291);
+            this.button51.Location = new System.Drawing.Point(113, 218);
+            this.button51.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button51.Name = "button51";
-            this.button51.Size = new System.Drawing.Size(30, 30);
+            this.button51.Size = new System.Drawing.Size(26, 22);
             this.button51.TabIndex = 56;
             this.button51.Tag = "6,3";
             this.button51.UseVisualStyleBackColor = false;
@@ -626,9 +672,10 @@
             // button52
             // 
             this.button52.BackColor = System.Drawing.Color.Turquoise;
-            this.button52.Location = new System.Drawing.Point(93, 291);
+            this.button52.Location = new System.Drawing.Point(81, 218);
+            this.button52.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button52.Name = "button52";
-            this.button52.Size = new System.Drawing.Size(30, 30);
+            this.button52.Size = new System.Drawing.Size(26, 22);
             this.button52.TabIndex = 55;
             this.button52.Tag = "6,2";
             this.button52.UseVisualStyleBackColor = false;
@@ -637,9 +684,10 @@
             // button53
             // 
             this.button53.BackColor = System.Drawing.Color.Turquoise;
-            this.button53.Location = new System.Drawing.Point(57, 291);
+            this.button53.Location = new System.Drawing.Point(50, 218);
+            this.button53.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button53.Name = "button53";
-            this.button53.Size = new System.Drawing.Size(30, 30);
+            this.button53.Size = new System.Drawing.Size(26, 22);
             this.button53.TabIndex = 54;
             this.button53.Tag = "6,1";
             this.button53.UseVisualStyleBackColor = false;
@@ -648,9 +696,10 @@
             // button55
             // 
             this.button55.BackColor = System.Drawing.Color.Turquoise;
-            this.button55.Location = new System.Drawing.Point(309, 255);
+            this.button55.Location = new System.Drawing.Point(270, 191);
+            this.button55.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button55.Name = "button55";
-            this.button55.Size = new System.Drawing.Size(30, 30);
+            this.button55.Size = new System.Drawing.Size(26, 22);
             this.button55.TabIndex = 52;
             this.button55.Tag = "5,8";
             this.button55.UseVisualStyleBackColor = false;
@@ -659,9 +708,10 @@
             // button56
             // 
             this.button56.BackColor = System.Drawing.Color.Turquoise;
-            this.button56.Location = new System.Drawing.Point(273, 255);
+            this.button56.Location = new System.Drawing.Point(239, 191);
+            this.button56.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button56.Name = "button56";
-            this.button56.Size = new System.Drawing.Size(30, 30);
+            this.button56.Size = new System.Drawing.Size(26, 22);
             this.button56.TabIndex = 51;
             this.button56.Tag = "5,7";
             this.button56.UseVisualStyleBackColor = false;
@@ -670,9 +720,10 @@
             // button57
             // 
             this.button57.BackColor = System.Drawing.Color.Turquoise;
-            this.button57.Location = new System.Drawing.Point(237, 255);
+            this.button57.Location = new System.Drawing.Point(207, 191);
+            this.button57.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button57.Name = "button57";
-            this.button57.Size = new System.Drawing.Size(30, 30);
+            this.button57.Size = new System.Drawing.Size(26, 22);
             this.button57.TabIndex = 50;
             this.button57.Tag = "5,6";
             this.button57.UseVisualStyleBackColor = false;
@@ -681,9 +732,10 @@
             // button58
             // 
             this.button58.BackColor = System.Drawing.Color.Turquoise;
-            this.button58.Location = new System.Drawing.Point(201, 255);
+            this.button58.Location = new System.Drawing.Point(176, 191);
+            this.button58.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button58.Name = "button58";
-            this.button58.Size = new System.Drawing.Size(30, 30);
+            this.button58.Size = new System.Drawing.Size(26, 22);
             this.button58.TabIndex = 49;
             this.button58.Tag = "5,5";
             this.button58.UseVisualStyleBackColor = false;
@@ -692,9 +744,10 @@
             // button59
             // 
             this.button59.BackColor = System.Drawing.Color.Turquoise;
-            this.button59.Location = new System.Drawing.Point(165, 255);
+            this.button59.Location = new System.Drawing.Point(144, 191);
+            this.button59.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button59.Name = "button59";
-            this.button59.Size = new System.Drawing.Size(30, 30);
+            this.button59.Size = new System.Drawing.Size(26, 22);
             this.button59.TabIndex = 48;
             this.button59.Tag = "5,4";
             this.button59.UseVisualStyleBackColor = false;
@@ -703,9 +756,10 @@
             // button60
             // 
             this.button60.BackColor = System.Drawing.Color.Turquoise;
-            this.button60.Location = new System.Drawing.Point(129, 255);
+            this.button60.Location = new System.Drawing.Point(113, 191);
+            this.button60.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button60.Name = "button60";
-            this.button60.Size = new System.Drawing.Size(30, 30);
+            this.button60.Size = new System.Drawing.Size(26, 22);
             this.button60.TabIndex = 47;
             this.button60.Tag = "5,3";
             this.button60.UseVisualStyleBackColor = false;
@@ -714,9 +768,10 @@
             // button61
             // 
             this.button61.BackColor = System.Drawing.Color.Turquoise;
-            this.button61.Location = new System.Drawing.Point(93, 255);
+            this.button61.Location = new System.Drawing.Point(81, 191);
+            this.button61.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button61.Name = "button61";
-            this.button61.Size = new System.Drawing.Size(30, 30);
+            this.button61.Size = new System.Drawing.Size(26, 22);
             this.button61.TabIndex = 46;
             this.button61.Tag = "5,2";
             this.button61.UseVisualStyleBackColor = false;
@@ -725,9 +780,10 @@
             // button62
             // 
             this.button62.BackColor = System.Drawing.Color.Turquoise;
-            this.button62.Location = new System.Drawing.Point(57, 255);
+            this.button62.Location = new System.Drawing.Point(50, 191);
+            this.button62.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button62.Name = "button62";
-            this.button62.Size = new System.Drawing.Size(30, 30);
+            this.button62.Size = new System.Drawing.Size(26, 22);
             this.button62.TabIndex = 45;
             this.button62.Tag = "5,1";
             this.button62.UseVisualStyleBackColor = false;
@@ -736,9 +792,10 @@
             // button64
             // 
             this.button64.BackColor = System.Drawing.Color.Turquoise;
-            this.button64.Location = new System.Drawing.Point(309, 219);
+            this.button64.Location = new System.Drawing.Point(270, 164);
+            this.button64.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button64.Name = "button64";
-            this.button64.Size = new System.Drawing.Size(30, 30);
+            this.button64.Size = new System.Drawing.Size(26, 22);
             this.button64.TabIndex = 43;
             this.button64.Tag = "4,8";
             this.button64.UseVisualStyleBackColor = false;
@@ -747,9 +804,10 @@
             // button65
             // 
             this.button65.BackColor = System.Drawing.Color.Turquoise;
-            this.button65.Location = new System.Drawing.Point(273, 219);
+            this.button65.Location = new System.Drawing.Point(239, 164);
+            this.button65.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button65.Name = "button65";
-            this.button65.Size = new System.Drawing.Size(30, 30);
+            this.button65.Size = new System.Drawing.Size(26, 22);
             this.button65.TabIndex = 42;
             this.button65.Tag = "4,7";
             this.button65.UseVisualStyleBackColor = false;
@@ -758,9 +816,10 @@
             // button66
             // 
             this.button66.BackColor = System.Drawing.Color.Turquoise;
-            this.button66.Location = new System.Drawing.Point(237, 219);
+            this.button66.Location = new System.Drawing.Point(207, 164);
+            this.button66.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button66.Name = "button66";
-            this.button66.Size = new System.Drawing.Size(30, 30);
+            this.button66.Size = new System.Drawing.Size(26, 22);
             this.button66.TabIndex = 41;
             this.button66.Tag = "4,6";
             this.button66.UseVisualStyleBackColor = false;
@@ -769,9 +828,10 @@
             // button67
             // 
             this.button67.BackColor = System.Drawing.Color.Turquoise;
-            this.button67.Location = new System.Drawing.Point(201, 219);
+            this.button67.Location = new System.Drawing.Point(176, 164);
+            this.button67.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button67.Name = "button67";
-            this.button67.Size = new System.Drawing.Size(30, 30);
+            this.button67.Size = new System.Drawing.Size(26, 22);
             this.button67.TabIndex = 40;
             this.button67.Tag = "4,5";
             this.button67.UseVisualStyleBackColor = false;
@@ -780,9 +840,10 @@
             // button68
             // 
             this.button68.BackColor = System.Drawing.Color.Turquoise;
-            this.button68.Location = new System.Drawing.Point(165, 219);
+            this.button68.Location = new System.Drawing.Point(144, 164);
+            this.button68.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button68.Name = "button68";
-            this.button68.Size = new System.Drawing.Size(30, 30);
+            this.button68.Size = new System.Drawing.Size(26, 22);
             this.button68.TabIndex = 39;
             this.button68.Tag = "4,4";
             this.button68.UseVisualStyleBackColor = false;
@@ -791,9 +852,10 @@
             // button69
             // 
             this.button69.BackColor = System.Drawing.Color.Turquoise;
-            this.button69.Location = new System.Drawing.Point(129, 219);
+            this.button69.Location = new System.Drawing.Point(113, 164);
+            this.button69.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button69.Name = "button69";
-            this.button69.Size = new System.Drawing.Size(30, 30);
+            this.button69.Size = new System.Drawing.Size(26, 22);
             this.button69.TabIndex = 38;
             this.button69.Tag = "4,3";
             this.button69.UseVisualStyleBackColor = false;
@@ -802,9 +864,10 @@
             // button70
             // 
             this.button70.BackColor = System.Drawing.Color.Turquoise;
-            this.button70.Location = new System.Drawing.Point(93, 219);
+            this.button70.Location = new System.Drawing.Point(81, 164);
+            this.button70.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button70.Name = "button70";
-            this.button70.Size = new System.Drawing.Size(30, 30);
+            this.button70.Size = new System.Drawing.Size(26, 22);
             this.button70.TabIndex = 37;
             this.button70.Tag = "4,2";
             this.button70.UseVisualStyleBackColor = false;
@@ -813,9 +876,10 @@
             // button71
             // 
             this.button71.BackColor = System.Drawing.Color.Turquoise;
-            this.button71.Location = new System.Drawing.Point(57, 219);
+            this.button71.Location = new System.Drawing.Point(50, 164);
+            this.button71.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button71.Name = "button71";
-            this.button71.Size = new System.Drawing.Size(30, 30);
+            this.button71.Size = new System.Drawing.Size(26, 22);
             this.button71.TabIndex = 36;
             this.button71.Tag = "4,1";
             this.button71.UseVisualStyleBackColor = false;
@@ -824,9 +888,10 @@
             // button73
             // 
             this.button73.BackColor = System.Drawing.Color.Turquoise;
-            this.button73.Location = new System.Drawing.Point(309, 363);
+            this.button73.Location = new System.Drawing.Point(270, 272);
+            this.button73.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button73.Name = "button73";
-            this.button73.Size = new System.Drawing.Size(30, 30);
+            this.button73.Size = new System.Drawing.Size(26, 22);
             this.button73.TabIndex = 79;
             this.button73.Tag = "8,8";
             this.button73.UseVisualStyleBackColor = false;
@@ -835,9 +900,10 @@
             // button74
             // 
             this.button74.BackColor = System.Drawing.Color.Turquoise;
-            this.button74.Location = new System.Drawing.Point(273, 363);
+            this.button74.Location = new System.Drawing.Point(239, 272);
+            this.button74.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button74.Name = "button74";
-            this.button74.Size = new System.Drawing.Size(30, 30);
+            this.button74.Size = new System.Drawing.Size(26, 22);
             this.button74.TabIndex = 78;
             this.button74.Tag = "8,7";
             this.button74.UseVisualStyleBackColor = false;
@@ -846,9 +912,10 @@
             // button75
             // 
             this.button75.BackColor = System.Drawing.Color.Turquoise;
-            this.button75.Location = new System.Drawing.Point(237, 363);
+            this.button75.Location = new System.Drawing.Point(207, 272);
+            this.button75.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button75.Name = "button75";
-            this.button75.Size = new System.Drawing.Size(30, 30);
+            this.button75.Size = new System.Drawing.Size(26, 22);
             this.button75.TabIndex = 77;
             this.button75.Tag = "8,6";
             this.button75.UseVisualStyleBackColor = false;
@@ -857,9 +924,10 @@
             // button76
             // 
             this.button76.BackColor = System.Drawing.Color.Turquoise;
-            this.button76.Location = new System.Drawing.Point(201, 363);
+            this.button76.Location = new System.Drawing.Point(176, 272);
+            this.button76.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button76.Name = "button76";
-            this.button76.Size = new System.Drawing.Size(30, 30);
+            this.button76.Size = new System.Drawing.Size(26, 22);
             this.button76.TabIndex = 76;
             this.button76.Tag = "8,5";
             this.button76.UseVisualStyleBackColor = false;
@@ -868,9 +936,10 @@
             // button77
             // 
             this.button77.BackColor = System.Drawing.Color.Turquoise;
-            this.button77.Location = new System.Drawing.Point(165, 363);
+            this.button77.Location = new System.Drawing.Point(144, 272);
+            this.button77.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button77.Name = "button77";
-            this.button77.Size = new System.Drawing.Size(30, 30);
+            this.button77.Size = new System.Drawing.Size(26, 22);
             this.button77.TabIndex = 75;
             this.button77.Tag = "8,4";
             this.button77.UseVisualStyleBackColor = false;
@@ -879,9 +948,10 @@
             // button78
             // 
             this.button78.BackColor = System.Drawing.Color.Turquoise;
-            this.button78.Location = new System.Drawing.Point(129, 363);
+            this.button78.Location = new System.Drawing.Point(113, 272);
+            this.button78.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button78.Name = "button78";
-            this.button78.Size = new System.Drawing.Size(30, 30);
+            this.button78.Size = new System.Drawing.Size(26, 22);
             this.button78.TabIndex = 74;
             this.button78.Tag = "8,3";
             this.button78.UseVisualStyleBackColor = false;
@@ -890,9 +960,10 @@
             // button79
             // 
             this.button79.BackColor = System.Drawing.Color.Turquoise;
-            this.button79.Location = new System.Drawing.Point(93, 363);
+            this.button79.Location = new System.Drawing.Point(81, 272);
+            this.button79.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button79.Name = "button79";
-            this.button79.Size = new System.Drawing.Size(30, 30);
+            this.button79.Size = new System.Drawing.Size(26, 22);
             this.button79.TabIndex = 73;
             this.button79.Tag = "8,2";
             this.button79.UseVisualStyleBackColor = false;
@@ -901,9 +972,10 @@
             // button80
             // 
             this.button80.BackColor = System.Drawing.Color.Turquoise;
-            this.button80.Location = new System.Drawing.Point(57, 363);
+            this.button80.Location = new System.Drawing.Point(50, 272);
+            this.button80.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button80.Name = "button80";
-            this.button80.Size = new System.Drawing.Size(30, 30);
+            this.button80.Size = new System.Drawing.Size(26, 22);
             this.button80.TabIndex = 72;
             this.button80.Tag = "8,1";
             this.button80.UseVisualStyleBackColor = false;
@@ -912,9 +984,10 @@
             // button88
             // 
             this.button88.BackColor = System.Drawing.Color.Turquoise;
-            this.button88.Location = new System.Drawing.Point(21, 363);
+            this.button88.Location = new System.Drawing.Point(18, 272);
+            this.button88.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button88.Name = "button88";
-            this.button88.Size = new System.Drawing.Size(30, 30);
+            this.button88.Size = new System.Drawing.Size(26, 22);
             this.button88.TabIndex = 91;
             this.button88.Tag = "8,0";
             this.button88.UseVisualStyleBackColor = false;
@@ -923,9 +996,10 @@
             // button87
             // 
             this.button87.BackColor = System.Drawing.Color.Turquoise;
-            this.button87.Location = new System.Drawing.Point(21, 327);
+            this.button87.Location = new System.Drawing.Point(18, 245);
+            this.button87.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button87.Name = "button87";
-            this.button87.Size = new System.Drawing.Size(30, 30);
+            this.button87.Size = new System.Drawing.Size(26, 22);
             this.button87.TabIndex = 90;
             this.button87.Tag = "7,0";
             this.button87.UseVisualStyleBackColor = false;
@@ -934,9 +1008,10 @@
             // button86
             // 
             this.button86.BackColor = System.Drawing.Color.Turquoise;
-            this.button86.Location = new System.Drawing.Point(21, 291);
+            this.button86.Location = new System.Drawing.Point(18, 218);
+            this.button86.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button86.Name = "button86";
-            this.button86.Size = new System.Drawing.Size(30, 30);
+            this.button86.Size = new System.Drawing.Size(26, 22);
             this.button86.TabIndex = 89;
             this.button86.Tag = "6,0";
             this.button86.UseVisualStyleBackColor = false;
@@ -945,9 +1020,10 @@
             // button85
             // 
             this.button85.BackColor = System.Drawing.Color.Turquoise;
-            this.button85.Location = new System.Drawing.Point(21, 255);
+            this.button85.Location = new System.Drawing.Point(18, 191);
+            this.button85.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button85.Name = "button85";
-            this.button85.Size = new System.Drawing.Size(30, 30);
+            this.button85.Size = new System.Drawing.Size(26, 22);
             this.button85.TabIndex = 88;
             this.button85.Tag = "5,0";
             this.button85.UseVisualStyleBackColor = false;
@@ -956,9 +1032,10 @@
             // button84
             // 
             this.button84.BackColor = System.Drawing.Color.Turquoise;
-            this.button84.Location = new System.Drawing.Point(21, 219);
+            this.button84.Location = new System.Drawing.Point(18, 164);
+            this.button84.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button84.Name = "button84";
-            this.button84.Size = new System.Drawing.Size(30, 30);
+            this.button84.Size = new System.Drawing.Size(26, 22);
             this.button84.TabIndex = 87;
             this.button84.Tag = "4,0";
             this.button84.UseVisualStyleBackColor = false;
@@ -967,9 +1044,10 @@
             // button83
             // 
             this.button83.BackColor = System.Drawing.Color.Turquoise;
-            this.button83.Location = new System.Drawing.Point(21, 183);
+            this.button83.Location = new System.Drawing.Point(18, 137);
+            this.button83.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button83.Name = "button83";
-            this.button83.Size = new System.Drawing.Size(30, 30);
+            this.button83.Size = new System.Drawing.Size(26, 22);
             this.button83.TabIndex = 86;
             this.button83.Tag = "3,0";
             this.button83.UseVisualStyleBackColor = false;
@@ -978,9 +1056,10 @@
             // button82
             // 
             this.button82.BackColor = System.Drawing.Color.Turquoise;
-            this.button82.Location = new System.Drawing.Point(21, 147);
+            this.button82.Location = new System.Drawing.Point(18, 110);
+            this.button82.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button82.Name = "button82";
-            this.button82.Size = new System.Drawing.Size(30, 30);
+            this.button82.Size = new System.Drawing.Size(26, 22);
             this.button82.TabIndex = 85;
             this.button82.Tag = "2,0";
             this.button82.UseVisualStyleBackColor = false;
@@ -989,9 +1068,10 @@
             // button81
             // 
             this.button81.BackColor = System.Drawing.Color.Turquoise;
-            this.button81.Location = new System.Drawing.Point(21, 111);
+            this.button81.Location = new System.Drawing.Point(18, 83);
+            this.button81.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button81.Name = "button81";
-            this.button81.Size = new System.Drawing.Size(30, 30);
+            this.button81.Size = new System.Drawing.Size(26, 22);
             this.button81.TabIndex = 84;
             this.button81.Tag = "1,0";
             this.button81.UseVisualStyleBackColor = false;
@@ -1000,9 +1080,10 @@
             // cellButton9
             // 
             this.cellButton9.BackColor = System.Drawing.Color.Turquoise;
-            this.cellButton9.Location = new System.Drawing.Point(57, 75);
+            this.cellButton9.Location = new System.Drawing.Point(50, 56);
+            this.cellButton9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.cellButton9.Name = "cellButton9";
-            this.cellButton9.Size = new System.Drawing.Size(30, 30);
+            this.cellButton9.Size = new System.Drawing.Size(26, 22);
             this.cellButton9.TabIndex = 83;
             this.cellButton9.Tag = "0,1";
             this.cellButton9.UseVisualStyleBackColor = false;
@@ -1012,9 +1093,9 @@
             // 
             this.numberOfFlags.AutoSize = true;
             this.numberOfFlags.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.numberOfFlags.Location = new System.Drawing.Point(21, 405);
+            this.numberOfFlags.Location = new System.Drawing.Point(18, 304);
             this.numberOfFlags.Name = "numberOfFlags";
-            this.numberOfFlags.Size = new System.Drawing.Size(19, 23);
+            this.numberOfFlags.Size = new System.Drawing.Size(17, 19);
             this.numberOfFlags.TabIndex = 81;
             this.numberOfFlags.Text = "9";
             // 
@@ -1022,16 +1103,17 @@
             // 
             this.Result.AutoSize = true;
             this.Result.Font = new System.Drawing.Font("Segoe UI", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.Result.Location = new System.Drawing.Point(92, 31);
+            this.Result.Location = new System.Drawing.Point(80, 23);
             this.Result.Name = "Result";
-            this.Result.Size = new System.Drawing.Size(0, 38);
+            this.Result.Size = new System.Drawing.Size(0, 30);
             this.Result.TabIndex = 92;
             // 
             // Restart
             // 
-            this.Restart.Location = new System.Drawing.Point(245, 403);
+            this.Restart.Location = new System.Drawing.Point(214, 302);
+            this.Restart.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Restart.Name = "Restart";
-            this.Restart.Size = new System.Drawing.Size(94, 29);
+            this.Restart.Size = new System.Drawing.Size(82, 22);
             this.Restart.TabIndex = 93;
             this.Restart.Text = "Restart";
             this.Restart.UseVisualStyleBackColor = true;
@@ -1041,29 +1123,31 @@
             // 
             this.Flags.AutoSize = true;
             this.Flags.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.Flags.Location = new System.Drawing.Point(36, 405);
+            this.Flags.Location = new System.Drawing.Point(32, 304);
             this.Flags.Name = "Flags";
-            this.Flags.Size = new System.Drawing.Size(74, 23);
+            this.Flags.Size = new System.Drawing.Size(60, 19);
             this.Flags.TabIndex = 94;
             this.Flags.Text = "flags left";
             // 
             // about
             // 
             this.about.BackgroundImage = global::MinesweeperGame.Properties.Resources.about;
+            this.about.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.about.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.about.Location = new System.Drawing.Point(309, 12);
+            this.about.Location = new System.Drawing.Point(270, 9);
+            this.about.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.about.Name = "about";
-            this.about.Size = new System.Drawing.Size(30, 30);
+            this.about.Size = new System.Drawing.Size(26, 26);
             this.about.TabIndex = 95;
             this.about.UseVisualStyleBackColor = true;
             this.about.Click += new System.EventHandler(this.About_Click);
             // 
             // Main
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ClientSize = new System.Drawing.Size(361, 453);
+            this.ClientSize = new System.Drawing.Size(316, 340);
             this.Controls.Add(this.about);
             this.Controls.Add(this.Flags);
             this.Controls.Add(this.Restart);
@@ -1152,6 +1236,7 @@
             this.Controls.Add(this.button);
             this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MaximizeBox = false;
             this.MdiChildrenMinimizedAnchorBottom = false;
             this.MinimizeBox = false;
